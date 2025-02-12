@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 06.01.2025
+  Changes:
+    - fixed repository link and dependencies to be accurate, no material changes to the mod
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 06.01.2025
+  Features:
+    - initial release
